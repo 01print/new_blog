@@ -1,10 +1,6 @@
 ---
 date: "2019-11-16"
 linktitle: This is my first English blog
-menu:
-  main:
-    parent: tutorials
-prev: /tutorials/mathjax
 title: This is my first English blog
 weight: 10
 ---
