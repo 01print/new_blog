@@ -19,8 +19,6 @@ DefaultContentLanguage = "cn"
     weight = 1
 
 [params]
-disqus = "Pancheng" # disqus account name
-extraHead = ''
 mainSections = ["posts"]
 
 [[params.socials]]

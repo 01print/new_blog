@@ -5,6 +5,16 @@
   <url>
     <loc>/en/posts/2019-11-16-hello-r-markdown-world/</loc>
     <lastmod>2019-11-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/posts/2019-11-16-hello-r-markdown-world/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/posts/2019-11-16-hello-r-markdown-world/"
+                />
   </url>
   
   <url>
@@ -34,6 +44,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/posts/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/posts/2019-11-16-hello-r-markdown-world/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/posts/2019-11-16-hello-r-markdown-world/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/posts/2019-11-16-hello-r-markdown-world/"
                 />
   </url>
   
