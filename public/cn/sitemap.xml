@@ -3,65 +3,44 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/cn/</loc>
-    <lastmod>2018-03-04T00:00:00+00:00</lastmod>
+    <loc>/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/"
+                href="/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="/cn/"
-                />
-  </url>
-  
-  <url>
-    <loc>/cn/posts/</loc>
-    <lastmod>2018-03-04T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="cn"
-                href="/cn/posts/"
-                />
-  </url>
-  
-  <url>
-    <loc>/cn/posts/cn/</loc>
-    <lastmod>2018-03-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/cn/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
                 href="/categories/"
                 />
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="/cn/categories/"
+                href="/"
                 />
   </url>
   
   <url>
-    <loc>/cn/tags/</loc>
+    <loc>/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/"
+                href="/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="/cn/tags/"
+                href="/tags/"
                 />
   </url>
   

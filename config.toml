@@ -1,12 +1,12 @@
-baseURL = "https://example.com"
+baseURL = "https://panchengwu.top"
 languageCode = "en-us"
-title = "Example YinYong Blog"
+title = "Pancheng Wu | 吴盼成"
 theme = "hugo-theme-yinyang"
-DefaultContentLanguage = "en"
+DefaultContentLanguage = "cn"
 
 [author]
-  name = "Joway Wang"
-  homepage = "https://joway.io/"
+  name = "Pancheng Wu"
+  homepage = "https://panchengwu.top"
 
 [languages]
   [languages.en]
@@ -19,14 +19,14 @@ DefaultContentLanguage = "en"
     weight = 1
 
 [params]
-disqus = "joway" # disqus account name
+disqus = "Pancheng" # disqus account name
 extraHead = ''
 mainSections = ["posts"]
 
 [[params.socials]]
-name = "RSS"
-link = "/index.xml"
+name = "Github"
+link = "https://github.com/01print/"
 
 [[params.socials]]
 name = "About"
-link = "https://joway.io"
+link = "https://panchengwu.top"
