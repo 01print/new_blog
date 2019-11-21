@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://panchengwu.top/en/posts/2019-11-16-hello-r-markdown-world/</loc>
+    <loc>https://panchengwu.top/en/post/2019-11-16-hello-r-markdown-world/</loc>
     <lastmod>2019-11-16T00:00:00+00:00</lastmod>
   </url>
   
@@ -23,17 +23,17 @@
   </url>
   
   <url>
-    <loc>https://panchengwu.top/en/posts/</loc>
+    <loc>https://panchengwu.top/en/post/</loc>
     <lastmod>2019-11-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://panchengwu.top/posts/"
+                href="https://panchengwu.top/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://panchengwu.top/en/posts/"
+                href="https://panchengwu.top/en/post/"
                 />
   </url>
   
